@@ -10,7 +10,7 @@ pilihan == 1
 
 <img width="1038" height="347" alt="if 1" src="https://github.com/user-attachments/assets/d577aacb-d53b-41d3-bcdc-80f75fb1bef7" />
 
-Di Output pertama dari codingan saya, saya membuat fitur **Creat** and **Update**, yaitu Membuat catatan berupa 3 data (tanggal, kategori, dan jumlah) dalam list "riwayat_pengeluaran" dan juga saya membuat agar program saya ini dapat menambahkan data tanggal, kategori, dan jumlah baru untuk di masukan kedalam list "riwayat_pengeluaran".
+Di Output pertama dari codingan saya, saya membuat fitur **Creat** and **Update**, yaitu membuat catatan berupa 3 data (tanggal, kategori, dan jumlah) dalam list "riwayat_pengeluaran" dan juga saya membuat agar program saya ini dapat menambahkan data tanggal, kategori, dan jumlah baru untuk di masukan kedalam list "riwayat_pengeluaran".
 
 pilihan == 2
 
