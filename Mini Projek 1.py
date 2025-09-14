@@ -44,7 +44,8 @@ while True:
     elif pilihan == "3": #kondisi 3
         print("Terima kasih telah menggunakan program ini.")
         break
+        
     else: #kondisi lain
         print("Pilihan tidak valid.")
-
         break
+
