@@ -5,6 +5,13 @@ Flowchart Catatan Pengeluaran Keuangan Harian Mahasiswa
 
 <img width="827" height="1169" alt="Mini Projek 1 drawio" src="https://github.com/user-attachments/assets/480a2ff7-60f7-410f-b795-d4d66f366326" />
 
+# Program Catatan Pengeluaran Keuangan Harian Mahasiswa
+
+<img width="652" height="582" alt="Screenshot 2025-09-14 230717" src="https://github.com/user-attachments/assets/f428fc77-660c-4b98-998d-50ac154b6ac3" />
+<img width="624" height="430" alt="Screenshot 2025-09-14 230737" src="https://github.com/user-attachments/assets/6af2b120-1fde-480e-8ac9-0eb4db4969dd" />
+
+
+
 # Output
 **pilihan == 1**
 
@@ -12,7 +19,7 @@ Flowchart Catatan Pengeluaran Keuangan Harian Mahasiswa
 
 Di Output pertama dari codingan saya, saya membuat fitur **Creat** and **Update**, yaitu membuat catatan berupa 3 data (tanggal, kategori, dan jumlah) dalam list "riwayat_pengeluaran" dan juga saya membuat agar program saya ini dapat menambahkan data tanggal, kategori, dan jumlah baru untuk di masukan kedalam list "riwayat_pengeluaran".
 
-**pilihan == 2**
+**pilihan == 2*
 
 <img width="1064" height="229" alt="elif 2 if" src="https://github.com/user-attachments/assets/79f077e0-6b4e-42e8-a671-b56febe35b84" />
 
